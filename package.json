@@ -1,6 +1,6 @@
 {
   "name": "chimp",
-  "version": "https://github.com/olegdovger/chimp/tarball/master",
+  "version": "0.25.1",
   "description": "Develop acceptance tests & end-to-end tests with realtime feedback.",
   "keywords": [
     "simian",
